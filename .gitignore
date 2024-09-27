@@ -1,0 +1,22 @@
+# Matlab figures
+*.fig
+
+# Matlab temp files
+*.asv
+
+# numpy dataset
+*.npy
+
+# MP4s
+*.mp4
+
+# Pycache
+*.pyc
+
+# Fluent files
+*.trn
+*.log
+*.msh.h5
+*.cas.h5
+*.prs
+*.dtbs
