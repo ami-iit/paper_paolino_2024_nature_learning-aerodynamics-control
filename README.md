@@ -29,6 +29,20 @@ Robots with multi-modal locomotion are an active research field due to their ver
 
 ## Installation
 
+1. Clone the repository:
+  ```bash
+  git clone https://github.com/ami-iit/paper_paolino_2024_nature_learning-aerodynamics-control.git
+  ```
+
+2. Follow the instructions to install https://github.com/ami-iit/ironcub-mk1-software using `conda` environments.
+
+3. Install additional Python dependencies by running:
+  ```bash
+  conda install -c conda-forge matplotlib scipy scikit-learn optuna cudatoolkit==12.1
+  ```
+
+4. Install PyTorch following the instruction at https://pytorch.org/get-started/locally/ for `conda`
+
 
 ## Usage
 
