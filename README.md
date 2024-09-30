@@ -20,7 +20,9 @@ https://github.com/user-attachments/assets/acdfc5f7-8452-44e8-9078-ed70e781a90d
 </div>
 
 <div align="center">
-  <a href="#installation"><b>Installation</b></a>
+  <a href="#abstract"><b>Abstract</b></a> |
+  <a href="#installation"><b>Installation</b></a> |
+  <a href="#usage"><b>Usage</b></a>
 </div>
 
 ## Abstract
@@ -38,16 +40,15 @@ Robots with multi-modal locomotion are an active research field due to their ver
 
 3. Install additional Python dependencies by running:
   ```bash
-  conda install -c conda-forge matplotlib scipy scikit-learn optuna cudatoolkit==12.1
+  conda install -c conda-forge matplotlib scipy scikit-learn optuna
   ```
 
-4. Install PyTorch following the instruction at https://pytorch.org/get-started/locally/ for `conda`
+4. Install PyTorch in the `conda` environment following the instruction at https://pytorch.org/get-started/locally/ for `pip`
 
 
 ## Usage
 
-
-## Citing this work
+Please follow the instructions in the README of each directory to use the code present there.
 
 
 ### Maintainer
