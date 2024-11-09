@@ -16,7 +16,7 @@ https://github.com/user-attachments/assets/acdfc5f7-8452-44e8-9078-ed70e781a90d
 </p>
 
 <div align="center">
-  Nature Machine Intelligence
+  Nature Communications Engineering
 </div>
 
 <div align="center">
